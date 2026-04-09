@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Santiago;David;;;
+FN:David Santiago
+ORG:David Santiago Salon
+TITLE:Hair Designer & Colour Coach
+TEL;type=WORK,VOICE,CELL,pref:+5212211191800
+ADR;type=WORK,pref:;;Blvd. Municipio Libre 156, Emiliano Zapata;Heroica Puebla de Zaragoza;Puebla;72197;México
+URL;type=WORK:https://confirmafy.com/davidsantiagosalon
+URL;type=Instagram:https://www.instagram.com/davidsantiagosalon/?hl=es
+URL;type=Facebook:https://www.facebook.com/DaveSantiagoBelleza
+NOTE:🌱 Organic Hair - Somos especialistas en: ✨ Color, corte, peinado, maquillaje. ✂️ Salon & Barber shop.
+END:VCARD
